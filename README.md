@@ -1,16 +1,14 @@
-## Hi there 👋
+* Técnico em Informática para Internet pelo Instituto Federal do Rio Grande do Sul (IFRS)
+* Estudante de Sistemas de Informação na Universidade Federal do Rio grande (FURG)
 
-<!--
-**GuilhermeTavares4/GuilhermeTavares4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTavares4&show_icons=true&theme=merko&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="200px">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTavares4&layout=compact&theme=merko&hide_border=true" height="200px">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### Possuo experiência com:
+[![](https://skillicons.dev/icons?i=html,css,js,php,python,postgres,mysql)](https://skillicons.dev)
