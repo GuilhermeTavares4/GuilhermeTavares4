@@ -10,5 +10,5 @@
 
 ##
 
-### Possuo experiência com:
+### Tenho experiência com:
 [![](https://skillicons.dev/icons?i=html,css,js,php,python,postgres,mysql)](https://skillicons.dev)
