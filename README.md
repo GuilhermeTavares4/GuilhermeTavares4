@@ -11,4 +11,4 @@
 ##
 
 ### Tenho experiência com:
-[![](https://skillicons.dev/icons?i=html,css,js,php,python,postgres,mysql,git,csharp,unity)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,php,python,postgres,mysql,git,c#,unity)](https://skillicons.dev)
